@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salehsadid" alt="salehsadid" /></a> </p>
 
-- 🔭 I’m currently reading in on **Khulna University of Engineering & Technology (KUET)**
+- 🔭 I’m currently reading in **Khulna University of Engineering & Technology (KUET)**
 
-- 🌱 I’m currently learning **OOP with C++**
+- 🌱 I’m currently learning **Object Oriented Programming with C++**
 
 - 📫 How to reach me **salehsadid16@gmail.com**
 
