@@ -1,5 +1,5 @@
 <h1 align="center">Assalamu Walaikum 👋, I'm Saleh Sadid Mir</h1>
-<h3 align="center">A passionate CSE undergrad from Bangladesh</h3>
+<h3 align="center">I am a driven Computer Science and Engineering undergrad from Bangladesh with a strong foundation in software development and problem-solving. Proficient in languages like Python, C and C++, and eager to apply my skills to real-world projects. Passionate about learning and contributing to innovative solutions in a collaborative environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salehsadid&label=Profile%20views&color=0e75b6&style=flat" alt="salehsadid" /> </p>
 
