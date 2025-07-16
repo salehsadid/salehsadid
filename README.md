@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a driven Computer Science and Engineering undergrad from Bangladesh with a strong foundation in software development and problem-solving. Proficient in languages like Python, C and C++, and eager to apply my skills to real-world projects. Exploring the hardware sector with hands-on experience in Altium Designer, Logisim, computer architecture, Arduino, and PCB manufacturing using CNC machines. Additionally, honing my skills in Data Structures and Algorithms.Passionate about learning and contributing to innovative solutions in a collaborative environment.
+Dedicated Computer Science and Engineering undergraduate skilled in software development, frontend web development (HTML, CSS, JavaScript), and hardware integration. Proficient in C, C++, Python, and Arduino, with hands-on experience in web development, PCB design, EasyEDA, Altium Designer, CNC machines, and hardware prototyping. Eager to apply my technical knowledge and problem-solving skills to real-world technology challenges in a dynamic environment.
 
 
 ## 🌐 Socials:
