@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dedicated Computer Science and Engineering undergraduate skilled in software development, frontend web development (HTML, CSS, JavaScript), and hardware integration. Proficient in C, C++, Python, and Arduino, with hands-on experience in web development, PCB design, EasyEDA, Altium Designer, CNC machines, and hardware prototyping. Eager to apply my technical knowledge and problem-solving skills to real-world technology challenges in a dynamic environment.
+Dedicated Computer Science and Engineering undergraduate skilled in software development, frontend web development (HTML, CSS), and hardware integration. Proficient in C, C++, Python, Java (JavaFX) SQLite and Arduino, with hands-on experience in web development, desktop application , PCB design, EasyEDA, Altium Designer, CNC machines, and hardware prototyping. Eager to apply my technical knowledge and problem-solving skills to real-world technology challenges in a dynamic environment.
 
 
 ## 🌐 Socials:
