@@ -1,21 +1,20 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:00b4d8,100:0d1117&height=220&section=header&text=SALEH%20SADID%20MIR&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20%E2%80%A2%20Hardware%20%E2%80%A2%20Embedded%20Systems&descSize=18&descAlignY=60&descColor=00b4d8&animation=fadeIn" />
 </div>
-<img style="position:absolute; top:0; right:0;" align="right" height="250" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-
-<div align="left">
+<div align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=CSE+Undergraduate+%40+KUET;Software+%2B+Hardware+Engineer;Embedded+Systems+%26+IoT+Builder;Full-Stack+%26+Mobile+Developer;Turning+Signals+into+Solutions." alt="Typing SVG" />
 </a>
 </div>
 
 
-<div align="left">
+<div align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=KUET+%E2%80%94+CSE;3rd+Year+%E2%80%94+First+Semester" alt="Typing SVG" />
 </a>
 </div>
+<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
 
 
